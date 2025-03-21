@@ -6,6 +6,9 @@
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shuhaibofficial03@gmail.com) 
+Ph : 8637651928
+8/8A17, 9th Mile, Devarshola, Gudalur, The Nilgiris, Tamilnadu.
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shuhaib-R&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Shuhaib-R&theme=gruvbox_light&hide_border=false)<br/>
