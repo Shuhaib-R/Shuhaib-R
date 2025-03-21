@@ -1,192 +1,66 @@
+# 💡Shuhaib R.
+
+# 💫 About Me:
+#I'm a student. As a driven and detail-oriented computer science student, I've developed a strong foundation in programming languages, data structures, algorithms, and software engineering principles. With a passion for building innovative solutions, I've applied my skills to a range of projects, from web development and mobile app design to artificial intelligence and machine learning. I'm excited to showcase my projects and share my passion for computer science with you."
+
+
+# Details:
+  <summary>More about me</summary>
+
+- **Name**: Shuhaib-R
+- **From**: India
+- **Computer Science Student**
+
+</details>
+<br>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Portfolio</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #84a6e9;
-        }
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+---
 
-        header {
-            background-color: #941919;
-            color: #fff;
-            text-align: center;
-            padding: 2rem 0;
-            position: relative; /* Add this */
-        }
+<h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
-        .header-content h1 {
-            font-size: 2.5rem;
-        }
+<br>
 
-        /* Add styles for the round profile picture */
-        .profile-picture {
-            width: 100px; /* Adjust the size as needed */
-            height: 100px;
-            border-radius: 75%; /* Create a circular shape */
-            object-fit: cover; /* To ensure the image fills the circular area */
-            position: absolute; /* Add this */
-            top: 75px; /* Adjust top position as needed */
-            left: 75px; /* Adjust left position as needed */
-        }
+<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&color=000000" alt="C Language" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&color=000000" alt="C++ Language" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&color=000000" alt="Java" />
+      <img src="https://img.shields.io/badge/SSOS-4C4CFF?style=for-the-badge&logo=linux&color=000000" alt="SSOS" />
 
-        nav {
-            background-color: #333;
-            color: #fff;
-            text-align: center;
-        }
+  </div>
+</div>
 
-        nav ul {
-            list-style-type: none;
-            padding: 0;
-        }
+---
 
-        nav ul li {
-            display: inline;
-            margin: 0 20px;
-        }
-
-        nav ul li a {
-            text-decoration: none;
-            color: #fff;
-        }
-
-        .section-content {
-            background-color: #fff;
-            padding: 2rem;
-            margin: 1rem;
-            border-radius: 20px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            text-align: justify;
-        }
-
-        .download-button {
-            background-color: #333;
-            color: #fff;
-            padding: 0.5rem 1rem;
-            text-decoration: none;
-            border-radius: 20px;
-            display: inline-block;
-            margin-top: 10px;
-            align-self: center;
-        }
-
-        .download-button:hover {
-            background-color: #555;
-        }
-
-        footer {
-            text-align: center;
-            padding: 1rem 0;
-            background-color: #333;
-            color: #fff;
-        }
-
-        ul {
-            list-style-type: disc;
-            padding-left: 20px;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <div class="header-content">
-            <!-- Add your profile picture here -->
-            <img src="passport photo.jpg" alt="Your Profile Picture" class="profile-picture">
-            <h1>Shuhaib S</h1>
-            <p>I Am a Student</p>
-        </div>
-    </header>
-
-    <nav>
-        <ul>
-            <li><a href="#about">About</a></li>
-            <li><a href="#education">Education</a></li>
-            <li><a href="#skills">Skills</a></li>
-            <li><a href="#projects">Projects</a></li>
-            <li><a href="#resume">Resume</a></li>
-
-        </ul>
-    </nav>
-
-    <section id="about">
-        <div class="section-content">
-            <h2>About Me</h2>
-            <p>I'm a <b>Student</b>I'm a student. As a driven and detail-oriented computer science student, I've developed a strong foundation in programming languages, data structures, algorithms, and software engineering principles. With a passion for building innovative solutions, I've applied my skills to a range of projects, from web development and mobile app design to artificial intelligence and machine learning. I'm excited to showcase my projects and share my passion for computer science with you."</p>
-
-        </div>
-    </section>
-
-    <section id="education">
-        <div class="section-content">
-            <h2>Education</h2>
-            <p>Government arts and science college, gudalur - Bsc Computer Science</p>
+<h2 id="Projects" align=''> Projects </h2>
 
 
-        </div>
-    </section>
+| **Project**      | **Description**                                                                                  |
+|-------------------|--------------------------------------------------------------------------------------------------|
+| **[1](https://github.com/)**    | E Cart Website |
+| **[2](https://github.com/)**    | Cloud Security IBM|
+| **[3](https://github.com/)**    | IBM ChatBox | 
+| **[4](https://github.com/)**    | College Portal | 
+---
 
-    <section id="skills">
-        <div class="section-content">
-            <h2>Skills</h2>
-            <ul>
-                <li>C</li>
-                <li>C++</li>
-                <li>Linux</li>
-                <li>Java</li>
-    
-            </ul>
-        </div>
-    </section>
 
-    <section id="projects">
-        <div class="section-content">
-            <h2>Projects</h2>
-            <ul>
-                <li><a href="#">E Cart website</a></li>
-                <li><a href="#">Cloud Security IBM</a></li>
-                <li><a href="#">IBM chatbot</a></li>
-                <li><a href="#">College Portal</a></li> 
-                <!-- Add more project links here -->
-            </ul>
-        </div>
-    </section>
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shuhaibofficial03@gmail.com) 
+Ph : 8637651928
+8/8A17, 9th Mile, Devarshola, Gudalur, The Nilgiris, Tamilnadu.
 
-    <section id="resume">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Shuhaib-R&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Shuhaib-R&theme=gruvbox_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuhaib-R&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-        <div class="section-content">
-            <center>
-            <h2>Resume</h2>
-            <a href="file.pdf" target="_blank" class="download-button">Download CV</a>
-        </center>
-        </div>
+---
+[![](https://visitcount.itsvg.in/api?id=Shuhaib-R&icon=0&color=0)](https://visitcount.itsvg.in)
 
-    </section>
-
-    <footer>
-        <p>&copy; 2025 Shuhaib R</p>
-    </footer>
-
-    <script>
-        // Smooth scrolling to section when clicking on navigation links
-        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-            anchor.addEventListener('click', function(e) {
-                e.preventDefault();
-
-                const targetId = this.getAttribute('href').substring(1);
-                const targetElement = document.getElementById(targetId);
-
-                if (targetElement) {
-                    window.scrollTo({
-                        top: targetElement.offsetTop,
-                        behavior: 'smooth'
-                    });
-                }
-            });
-        });
-    </script>
-</body>
-</html>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
