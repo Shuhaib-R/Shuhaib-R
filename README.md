@@ -1,66 +1,185 @@
-# 💡Shuhaib R.
-
-# 💫 About Me:
-#I'm a student. As a driven and detail-oriented computer science student, I've developed a strong foundation in programming languages, data structures, algorithms, and software engineering principles. With a passion for building innovative solutions, I've applied my skills to a range of projects, from web development and mobile app design to artificial intelligence and machine learning. I'm excited to showcase my projects and share my passion for computer science with you."
-
-
-# Details:
-  <summary>More about me</summary>
-
-- **Name**: Shuhaib-R
-- **From**: India
-- **Computer Science Student**
-
-</details>
-<br>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
----
+    <title>Shuhaib R | Portfolio</title>
+    <style>
+        /* CSS Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
-<h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
+        /* Variables */
+        :root {
+            --primary-color: #3498db;
+            --secondary-color: #2c3e50;
+            --accent-color: #e74c3c;
+            --bg-color: #f5f5f5;
+            --text-color: #333;
+            --light-color: #ecf0f1;
+            --dark-color: #2c3e50;
+            --section-padding: 80px 0;
+        }
 
-<br>
+        /* Base Styles */
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            background-color: var(--bg-color);
+        }
 
-<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&color=000000" alt="C Language" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&color=000000" alt="C++ Language" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&color=000000" alt="Java" />
-      <img src="https://img.shields.io/badge/SSOS-4C4CFF?style=for-the-badge&logo=linux&color=000000" alt="SSOS" />
+        a {
+            text-decoration: none;
+            color: var(--primary-color);
+            transition: color 0.3s ease;
+        }
 
-  </div>
-</div>
+        a:hover {
+            color: var(--accent-color);
+        }
 
----
+        h1, h2, h3 {
+            margin-bottom: 1rem;
+            font-weight: 600;
+        }
 
-<h2 id="Projects" align=''> Projects </h2>
+        h1 {
+            font-size: 2.5rem;
+        }
 
+        h2 {
+            font-size: 2rem;
+            position: relative;
+            display: inline-block;
+            margin-bottom: 2rem;
+        }
 
-| **Project**      | **Description**                                                                                  |
-|-------------------|--------------------------------------------------------------------------------------------------|
-| **[1](https://github.com/)**    | E Cart Website |
-| **[2](https://github.com/)**    | Cloud Security IBM|
-| **[3](https://github.com/)**    | IBM ChatBox | 
-| **[4](https://github.com/)**    | College Portal | 
----
+        h2::after {
+            content: '';
+            position: absolute;
+            width: 50%;
+            height: 3px;
+            background-color: var(--primary-color);
+            bottom: -10px;
+            left: 0;
+        }
 
+        p {
+            margin-bottom: 1rem;
+        }
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shuhaibofficial03@gmail.com) 
-Ph : 8637651928
-8/8A17, 9th Mile, Devarshola, Gudalur, The Nilgiris, Tamilnadu.
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shuhaib-R&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shuhaib-R&theme=gruvbox_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuhaib-R&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+        .section {
+            padding: var(--section-padding);
+        }
 
----
-[![](https://visitcount.itsvg.in/api?id=Shuhaib-R&icon=0&color=0)](https://visitcount.itsvg.in)
+        .btn {
+            display: inline-block;
+            background-color: var(--primary-color);
+            color: white;
+            padding: 10px 20px;
+            border-radius: 5px;
+            margin-top: 10px;
+            transition: background-color 0.3s ease;
+        }
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+        .btn:hover {
+            background-color: var(--accent-color);
+            color: white;
+        }
+
+        /* Header */
+        header {
+            background-color: var(--dark-color);
+            color: var(--light-color);
+            padding: 20px 0;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: var(--light-color);
+        }
+
+        .nav-links {
+            display: flex;
+            list-style: none;
+        }
+
+        .nav-links li {
+            margin-left: 30px;
+        }
+
+        .nav-links a {
+            color: var(--light-color);
+            font-weight: 500;
+        }
+
+        .nav-links a:hover {
+            color: var(--primary-color);
+        }
+
+        /* Hero Section */
+        .hero {
+            background: linear-gradient(to right, var(--dark-color), var(--secondary-color));
+            color: var(--light-color);
+            padding: 100px 0;
+            text-align: center;
+        }
+
+        .hero-content {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .hero h1 {
+            font-size: 3rem;
+            margin-bottom: 20px;
+        }
+
+        .hero p {
+            font-size: 1.2rem;
+            margin-bottom: 30px;
+        }
+
+        /* About Section */
+        .about {
+            background-color: white;
+        }
+
+        .about-content {
+            display: flex;
+            flex-direction: column;
+            gap: 2rem;
+        }
+
+        .education {
+            margin-top: 2rem;
+        }
+
+        /* Skills Section */
+        .skills {
+            background-color: var(--bg-color);
+        }
+
+        .skills-container {
+            display: f
