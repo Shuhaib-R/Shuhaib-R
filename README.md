@@ -12,6 +12,19 @@
 </body>
 </html>
 
+---
+
+<h2 id="Projects" align=''> Projects </h2>
+
+
+| **Project**      | **Description**                                                                                  |
+|-------------------|--------------------------------------------------------------------------------------------------|
+| **[1](https://github.com/)**    | E Cart Website |
+| **[2](https://github.com/)**    | Cloud Security IBM|
+| **[3](https://github.com/)**    | IBM ChatBox | 
+| **[4](https://github.com/)**    | College Portal | 
+---
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shuhaibofficial03@gmail.com) 
