@@ -35,6 +35,7 @@
 
   </div>
 </div>
+
 ---
 
 <h2 id="Projects" align=''> Projects </h2>
