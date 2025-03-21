@@ -4,14 +4,21 @@
 #I'm a student. As a driven and detail-oriented computer science student, I've developed a strong foundation in programming languages, data structures, algorithms, and software engineering principles. With a passion for building innovative solutions, I've applied my skills to a range of projects, from web development and mobile app design to artificial intelligence and machine learning. I'm excited to showcase my projects and share my passion for computer science with you."
 
 
-    <div class="education">
-        <h2>Education</h2>
-        <p>Government Arts and Science College, Gudalur</p>
-    </div>
+    <details>
+  <summary>More about me</summary>
 
-</body>
-</html>
+- **Name**: Shuhaib-R
+- **From**: India
+- **Computer Science Student**
 
+</details>
+<br>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
 ---
 
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
