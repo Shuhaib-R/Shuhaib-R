@@ -96,7 +96,7 @@
         <div class="header-content">
             <!-- Add your profile picture here -->
             <img src="passport photo.jpg" alt="Your Profile Picture" class="profile-picture">
-            <h1>Shuhaib R S</h1>
+            <h1>Shuhaib S</h1>
             <p>I Am a Student</p>
         </div>
     </header>
@@ -115,7 +115,7 @@
     <section id="about">
         <div class="section-content">
             <h2>About Me</h2>
-            <p>I'm a <b>Student</b> As a driven and detail-oriented computer science student, I've developed a strong foundation in programming languages, data structures, algorithms, and software engineering principles. With a passion for building innovative solutions, I've applied my skills to a range of projects, from web development and mobile app design to artificial intelligence and machine learning. I'm excited to showcase my projects and share my passion for computer science with you.".</p>
+            <p>I'm a <b>Student</b>I'm a student. As a driven and detail-oriented computer science student, I've developed a strong foundation in programming languages, data structures, algorithms, and software engineering principles. With a passion for building innovative solutions, I've applied my skills to a range of projects, from web development and mobile app design to artificial intelligence and machine learning. I'm excited to showcase my projects and share my passion for computer science with you."</p>
 
         </div>
     </section>
@@ -123,7 +123,7 @@
     <section id="education">
         <div class="section-content">
             <h2>Education</h2>
-            <p>Deemed University  - Mech</p>
+            <p>Government arts and science college, gudalur - Bsc Computer Science</p>
 
 
         </div>
@@ -133,12 +133,11 @@
         <div class="section-content">
             <h2>Skills</h2>
             <ul>
-                 
-                <li>Java</li>
-                <li>C++</li>
                 <li>C</li>
+                <li>C++</li>
                 <li>Linux</li>
-        
+                <li>Java</li>
+    
             </ul>
         </div>
     </section>
@@ -168,7 +167,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2025 Shuhaib R S</p>
+        <p>&copy; 2025 Shuhaib R</p>
     </footer>
 
     <script>
