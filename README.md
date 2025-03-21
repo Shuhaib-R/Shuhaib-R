@@ -4,7 +4,7 @@
 #I'm a student. As a driven and detail-oriented computer science student, I've developed a strong foundation in programming languages, data structures, algorithms, and software engineering principles. With a passion for building innovative solutions, I've applied my skills to a range of projects, from web development and mobile app design to artificial intelligence and machine learning. I'm excited to showcase my projects and share my passion for computer science with you."
 
 
-# details
+# Details:
   <summary>More about me</summary>
 
 - **Name**: Shuhaib-R
