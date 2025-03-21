@@ -14,6 +14,22 @@
 
 ---
 
+<h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
+
+<br>
+
+<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&color=000000" alt="C Language" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&color=000000" alt="C++ Language" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&color=000000" alt="Java" />
+      <img src="https://img.shields.io/badge/SSOS-4C4CFF?style=for-the-badge&logo=linux&color=000000" alt="SSOS" />
+
+  </div>
+</div>
+---
+
 <h2 id="Projects" align=''> Projects </h2>
 
 
